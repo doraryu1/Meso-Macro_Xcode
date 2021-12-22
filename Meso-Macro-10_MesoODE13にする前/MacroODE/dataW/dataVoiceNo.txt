@@ -1,0 +1,8 @@
+7	No
+no	いいえ
+bad	悪い
+worse	悪いかな
+worst	最悪
+negative	良くない
+i'm not sure	わからない
+i don't understand	理解してません

@@ -1,0 +1,16 @@
+14	French Foods Menu
+coq au vin	鶏肉のワイン煮
+beef bourguignon	牛肉の赤ワイン煮
+quiche	キッシュ
+ratatouille	ラタトゥイユ
+bouillabaisse	ブイヤベース
+escargot	エスカルゴ
+gratin	グラタン
+fondue	フォンデュ
+souffle	スフレ
+crepe	クレープ
+mille-feuille	ミルフィーユ
+creme brulee	クレームブリュレ
+croque monsieur	クロックムッシュ
+cassoulet	カスレ
+pot-au-feu	ポトフ

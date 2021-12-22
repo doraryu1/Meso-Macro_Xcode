@@ -1,0 +1,10 @@
+ID	X	Y	Type	Name
+4
+0	10	20	0	Watch
+1	10	50	0	Global Microphone 
+10	100	400	2	Kinect
+11	400	400	2	Kinect
+12	100	100	2	Kinect(Intention)
+13	400	100	2	Camera(WeiHong)
+14	50	250	1	Leap Motion(Anom)
+15	500	500	0	ISS Sever

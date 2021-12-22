@@ -1,0 +1,17 @@
+16	Chinese Foods Menu
+fried rice	チャーハン
+egg fried rice	卵チャーハン
+sweet and sour pork	酢豚
+spring roll	春巻
+chow mein	チャーメン
+dumpling	ギョウザ
+wonton	ワンタン
+Kung Pao chicken	鶏肉とピーナッツの唐辛子炒め
+ｍapo tofu	麻婆豆腐
+Peking duck	北京ダック
+rice vermicelli	ビーフン
+dandan noodles	担担麺
+dim sum	点心
+shark fin soup	フカヒレスープ
+almond tofu	杏仁豆腐
+mango pudding	マンゴープリン

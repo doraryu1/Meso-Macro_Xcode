@@ -1,0 +1,195 @@
+4	-.-.-: Initial Transition
+1
+0	0
+0	0	0	It's daytime.  >> (0,0,0)
+1
+0	1
+0	0	1	It's morning. >> (0,0,1)
+1
+0	2
+0	0	2	It's afternoon.  >> (0,0,2)
+1
+0	3
+0	0	3	It's evening.  >> (0,0,3)
+2	0.0.0: daily greetings (question)
+2
+1	1
+101	999
+0	2	0	Voice (0,0,0) >> (0,2,0)
+2
+1	1
+102	999
+0	2	1	Voice (0,0,0) >> (0,2,1)
+2	0.0.1: greetings in morning (question)
+2
+1	1
+101	999
+0	2	0	Voice (0,0,1) >> (0,2,0)
+2
+1	1
+102	999
+0	2	1	Voice (0,0,1) >> (0,2,1)
+2	0.0.2: greetings in afternoon (question)
+2
+1	1
+101	999
+0	2	0	Voice (0,0,2) >> (0,2,0)
+2
+1	1
+102	999
+0	2	1	Voice (0,0,2) >> (0,2,1)
+2	0.0.3: greetings in evening (question)
+2
+1	1
+101	999
+0	2	0	Voice (0,0,3) >> (0,2,0)
+2
+1	1
+102	999
+0	2	1	Voice (0,0,3) >> (0,2,1)
+-2	0.1.0: No recognition (Reply to a question)
+1
+-1	-1
+0	2	0	Random (0,1,0) >> (0,2,0)
+1
+-1	-1
+0	2	1	Random (0,1,0) >> (0,2,1)
+-2	0.1.1: No recognition (Reply to a question)
+1
+-1	-1
+0	2	0	Random (0,1,1) >> (0,2,0)
+1
+-1	-1
+0	2	1	Random (0,1,1) >> (0,2,1)
+-2	0.2.0: free talk (random)
+1
+-1	-1
+1	0	0	Random (0,2,0) >> (1,0,0)
+1
+-1	-1
+1	0	1	Random (0,2,0) >> (1,0,1)
+-2	0.2.1: free talk (random)
+1
+-1	-1
+1	0	0	Random (0,2,1) >> (1,0,0)
+1
+-1	-1
+1	0	1	Random (0,2,1) >> (1,0,1)
+4	1.0.0: Favorite Foods (question)
+2
+1	1
+108	999
+1	1	0	Voice (1,0,0) >> Sushi (1,1,0)
+2
+1	1
+110	999
+1	1	1	Voice (1,0,0) >> Pizza (1,1,1)
+2
+1	1
+109	999
+1	1	2	Voice (1,0,0) >> bulgogi (1,1,2)
+2
+1	1
+107	999
+1	1	3	Voice (1,0,0) >> dumpling (1,1,3)
+4	1.0.1: Favorite Foods (question)
+2
+1	1
+108	999
+1	1	0	Voice (1,0,1) >> Sushi (1,1,0)
+2
+1	1
+110	999
+1	1	1	Voice (1,0,1) >> Pizza (1,1,1)
+2
+1	1
+109	999
+1	1	2	Voice (1,0,1) >> bulgogi (1,1,2)
+2
+1	1
+107	999
+1	1	3	Voice (1,0,1) >> dumpling (1,1,3)
+1	1.1.0: Japanese Foods (reply to question)
+1
+-2	-2
+2	0	0	Sushi (1,1,0) >> Sushi (2,0,0)
+1	1.1.1: Italian Foods (reply to question)
+1
+-2	-2
+2	0	1	Pizza (1,1,1) >> Pizza (2,0,1)
+1	1.1.2: Korean Foods (reply to question)
+1
+-2	-2
+2	0	2	bulgogi  (1,1,2) >> bulgogi  (2,0,2)
+1	1.1.3: Chinese Foods (reply to question)
+1
+-2	-2
+2	0	3	dumpling  (1,1,3) >> dumpling  (2,0,3)
+1	2.0.0: Japanese Foods (continued)
+1
+-2	-2
+3	0	0	Sushi (2,0,0) >> Sushi (3,0,0)
+1	2.0.1: Italian Foods (continued)
+1
+-2	-2
+3	0	1	Pizza (2,0,1) >> Pizza (3,0,1)
+1	2.0.2: Korean Foods (continued)
+1
+-2	-2
+3	0	2	bulgogi  (2,0,2) >> bulgogi  (3,0,2)
+1	2.0.3: Chinese Foods (continued)
+1
+-2	-2
+3	0	3	dumpling  (2,0,3) >> dumpling  (3,0,3)
+-3	3.0.0: Japanese Foods (continued)
+1
+-1	-1
+3	1	0	Sushi Random (3,0,0) >> (3,1,0)
+1
+-1	-1
+3	1	1	Sushi Random (3,0,0) >> (3,1,1)
+1
+-1	-1
+3	1	2	Sushi Random (3,0,0) >> (3,1,2)
+-3	3.0.1: Italian Foods (continued)
+1
+-1	-1
+3	1	0	Pizza Random (3,0,1) >> (3,1,0)
+1
+-1	-1
+3	1	1	Pizza Random (3,0,1) >> (3,1,1)
+1
+-1	-1
+3	1	2	Pizza Random (3,0,1) >> (3,1,2)
+-3	3.0.2: Korean Foods (continued)
+1
+-1	-1
+3	1	0	bulgogi Random (3,0,2) >> (3,1,0)
+-1	-1
+1
+3	1	1	bulgogi Random (3,0,2) >> (3,1,1)
+1
+-1	-1
+3	1	2	bulgogi Random (3,0,2) >> (3,1,2)
+-3	3.0.3: Chinese Foods (continued)
+1
+-1	-1
+3	1	0	dumpling Random (3,0,3) >> (3,1,0)
+1
+-1	-1
+3	1	1	dumpling Random (3,0,3) >> (3,1,1)
+1
+-1	-1
+3	1	2	dumpling Random (3,0,3) >> (3,1,2)
+1	3.1.0: Bye (random, greetings)
+1
+-2	-2
+-10	-1	-1	Ending (3,1,0) >> (-1,-1,-1)
+1	3.1.1: Bye (random, greetings)
+1
+-2	-2
+-10	-1	-1	Ending (3,1,1) >> (-1,-1,-1)
+1	3.1.2: Bye (random, greetings)
+1
+-2	-2
+-10	-1	-1	Ending (3,1,2) >>  (-1,-1,-1)

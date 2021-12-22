@@ -1,0 +1,47 @@
+46	Drinks
+alcohol	アルコール
+apple juice	リンゴジュース
+beer	ビール
+cocoa	ココア
+coffee	コーヒー
+cola	コーラ
+drink	飲み物
+fruit juice	果汁飲料
+green tee	緑茶
+iced coffee	アイスコーヒー
+iced tee	アイスティー
+juice	ジュース
+lemonade	レモネード
+milk	牛乳
+natural water	天然水
+oolong tee	ウーロン茶
+orange juice	オレンジジュース
+sake	日本酒
+soda	炭酸
+soft drink	清涼飲料
+soup	スープ
+soy milk	豆乳
+tee	茶
+tomato juice	トマトジュース
+vegetable juice	野菜ジュース
+water	水
+whiskey	ウイスキー
+wine	ワイン
+appetizer	食前酒
+beverage	飲料
+brandy	ブランデー
+cappuccino	カプチーノ
+champagne	シャンパン
+cider	リンゴジュース
+cocktail	カクテル
+cranberry juice	クランベリージュース
+espresso	エスプレッソ
+gin	ジン
+ginger ale	ジンジャエール
+herbal tee	ハーブティ―
+jasmine tee	ジャスミン茶
+liquor	蒸留酒
+low-fat milk	低脂肪牛乳
+sherry	シェリー
+smoothie	スムージー
+tonic	トニック

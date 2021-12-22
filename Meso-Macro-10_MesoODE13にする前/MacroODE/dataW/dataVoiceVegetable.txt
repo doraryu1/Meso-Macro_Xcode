@@ -1,0 +1,42 @@
+41	Vegetable
+basil	バジル
+broccoli	ブロッコリー
+cabbage	キャベツ
+carrot	ニンジン
+celery	セロリ
+cucumber	キュウリ
+eggplant	ナス
+garlic	ニンニク
+ginger	しょうが
+lettuce	レタス
+mushroom	キノコ
+onion	玉ねぎ
+parsley	パセリ
+potato	ジャガイモ
+pumpkin	カボチャ
+radish	ハツカダイコン
+sesame	ごま
+spinach	ホウレンソウ
+tomato	トマト
+vanilla	バニラ
+artichoke	アーティチョーク
+asparagus	アスパラガス
+bamboo shoot	たけのこ
+bean sprout	もやし
+bell pepper	パプリカ
+brussels sprouts	芽キャベツ
+burdock root	ごぼう
+cauliflower	カリフラワー
+celery	セロリ
+chicory	チコリー
+cilantro leaf	パクチー
+green pepperピーマン
+horseradish	ホースラディッシュ
+Japanese radish	大根
+kidney beans	いんげん豆
+oregano	オレガノ
+rosemary	ローズマリー
+sweet potato	サツマイモ
+turnip	かぶ
+watercress	クレソン
+zucchini	ズッキーニ

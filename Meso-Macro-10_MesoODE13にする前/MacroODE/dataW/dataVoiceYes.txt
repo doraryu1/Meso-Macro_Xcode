@@ -1,0 +1,15 @@
+14	Yes
+yes	はい
+ok	オーケー
+good	いいね
+cool	クール
+sure	はい
+exactly	その通り
+certainly	たしかに
+i see	わかる
+i understand	理解する
+undoubtedly	うたがいなく
+positive	好ましい
+better	いいね
+best	最高
+fine	すごい

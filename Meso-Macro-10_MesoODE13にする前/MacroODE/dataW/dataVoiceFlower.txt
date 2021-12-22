@@ -1,0 +1,24 @@
+23	Flower
+morning glory	アサガオ
+anemone	アネモネ
+iris	アヤメ
+baby's breath	カスミソウ
+chrysanthemum	キク
+cockscomb	ケイトウ
+cactus	サボテン
+cyclamen	シクラメン
+narcissus	スイセン
+violet	スミレ
+dandelion	タンポポ
+Tulip	チューリップ
+dianthus	ナデシコ
+lotus	ハス
+Rose	バラ
+hyacinth	ヒアシンス
+daisy	ヒナギク
+sunflower	ヒマワリ
+balsam	ホウセンカ
+lily	ユリ
+bottle gourd	ユウガオ
+orchid	ラン
+forget-me-not	ワスレナグサ

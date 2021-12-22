@@ -1,0 +1,10 @@
+3
+[0]Theater-Selection
+dataU/dataSentence-Select.txt
+dataU/dataTransition-Select.txt
+[1]Driving-Simulator 
+dataU/dataSentence-DS.txt
+dataU/dataTransition-DS.txt
+[2]Cafeteria-Story
+dataU/dataSentence-Lunch.txt
+dataU/dataTransition-Lunch.txt

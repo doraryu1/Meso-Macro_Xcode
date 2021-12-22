@@ -1,0 +1,6 @@
+4	Spanish Foods Menu
+tapas	タパス
+paella	パエリヤ
+gazpacho	ガスパチョ
+chorizo	チョリソ
+churro	チュロス

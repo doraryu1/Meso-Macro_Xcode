@@ -1,0 +1,93 @@
+93	Foods
+beef	牛肉
+bread	パン
+butter	バター
+cake	ケーキ
+candy	キャンディー
+cheese	チーズ
+chocolate	チョコレート
+cookie	クッキー
+corn	トウモロコシ
+egg	卵
+jam	ジャム
+meat	肉
+pork	豚肉
+rice	ごはん
+salad	サラダ
+sandwich	サンドイッチ
+toast	トースト
+bean	豆
+beef stew	ビーフシチュー
+cheese cake	チーズケーキ
+cream	クリーム
+flour	小麦粉
+grain	穀物
+hamburger	ハンバーガー
+honey	はちみつ
+nut	ナッツ
+parfait	パフェ
+pee	エンドウ豆
+peanut	らっかせい
+pie	パイ
+potato chips	ポテトチップス
+potato salad	ポテトサラダ
+ramen	ラーメン
+stew	シチュー	
+bacon	ベーコン
+cereal	シリアル
+crab	カニ
+curry	カレー
+dairy	乳製品
+dessert	デザート
+ham	ハム
+jelly	ゼリー
+lobster	ロブスター
+noodle	麺
+oyster	カキ
+pasta	パスタ
+pizza	ピザ
+raisin	干しブドウ
+salmon	鮭
+sausage	ソーセージ
+shellfish	貝
+shrimp	エビ
+steak	ステーキ
+tuna	マグロ
+yogurt	ヨーグルト
+almond	アーモンド
+barley	オオムギ
+barnyard millet	ヒエ
+beefsteak	ビーフステーキ
+biscuit	ビスケット
+buckwheat	ソバ
+bun	パン
+chestnut	くり
+chickpea	ひよこ豆
+clam chowder	クラムチャウダー
+cracker	クラッカー
+croquette	コロッケ
+crust	皮
+curry and rice	カレーライス
+custard	カスタード
+cutlet	カツレツ
+donut	ドーナツ
+ham and eggs	ハムエッグ
+hamburger	ハンバーガー
+meunier	ムニエル
+millet	アワ
+okra	オクラ
+omelet	オムレツ
+omelette rice	オムライス
+pancake	パンケーキ
+pastry	生地
+pickle	ピクルス
+pilaf	ピラフ
+popcorn	ポップコーン
+pork saute	ポークソテー
+pudding	プディング菓子
+rye	ライ麦
+soybean	大豆
+spaghetti	スパゲッティ
+stuffed cabbage	ロールキャベツ
+walnut	クルミ
+wheat	小麦

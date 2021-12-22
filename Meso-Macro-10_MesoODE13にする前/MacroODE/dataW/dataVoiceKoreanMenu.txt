@@ -1,0 +1,7 @@
+6	Korean Foods Menu
+kimchi	キムチ
+Korean barbecue	焼肉
+bulgogi	プルコギ
+bibimbap	ビビンバ
+hot stone pot bibimbap	石焼ビビンバ
+stir-fried rice cakes	トッポッキ

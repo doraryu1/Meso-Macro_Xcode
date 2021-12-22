@@ -1,0 +1,10 @@
+9	Mexican Foods Menu
+taco	タコス
+burrito	ブリート
+enchilada	エンチラーダ
+quesadilla	ケサディージャ
+nachos	ナチョス
+tortilla	トルティーヤ
+fajita	ファヒータ
+chili con carne	チリコンカン
+refried beans	フリホレスレフリトス

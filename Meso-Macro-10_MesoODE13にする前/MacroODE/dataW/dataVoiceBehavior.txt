@@ -1,0 +1,90 @@
+80	Behavior
+bend/bow	曲げる
+crawl	はう	
+crouch	しゃがむ
+dance	踊る
+fall down	倒れる
+get up	おきる
+jump	飛ぶ
+leap	はねる
+lie	横になる
+sleep	練る
+martial art	格闘技
+run	走る
+jog	ジョギングする
+sit	座る
+stand	立つ
+swim	泳ぐ
+walk	歩く
+answer phone	電話
+brush teeth	歯磨き
+carry	運ぶ
+hold	持つ
+catch	掴む
+chop	たたき切る	
+climb	登
+clink glass	グラスを叩く
+close	閉める
+cook	料理する
+cut	切る
+dig	掘る
+dress	着飾る
+put on clothing	服を着る
+drink	飲む
+drive	運転する
+eat	食べる
+enter	入る
+exit	出る
+extract	引き出す	
+fishing	魚釣り
+hit	たたく
+kick	ける
+lift	持ち上げる
+pick up	取り上げる
+listen	聞く
+open	あける
+paint	塗る
+play board game	ゲームをする
+play musical instrument	演奏する
+play with pets	ペットと遊ぶ
+point to	指さす
+press	押す
+pull	引く
+push	押す
+put down	置く
+read	読む
+ride	乗る
+row boat	ボートをこぐ
+sail boat	ボートに乗る
+shoot	打つ
+shovel	掘る
+smoke	たばこを吸う
+stir	まぜる
+take a photo	写真を撮る
+text on	入力する
+look at a cellphone	スマートフォンを見る
+throw	投げる
+touch	触る
+turn	回る
+watch	見る
+work on a computer	コンピュータを使う
+write	書く
+fight	戦う
+hit	叩く
+give	渡す
+serve	給紙する
+grab	掴む
+hand clap	手を叩く
+hand shake	握手する
+hand wave	手を振る
+hug	抱く
+kick	蹴る
+kiss	キスする
+lift	持ち上げる
+listen to	聞く
+play with kids	子供と遊ぶ
+push	押す
+sing to	歌う
+take	もらう
+talk to	話す
+watch	見る

@@ -1,0 +1,17 @@
+16	Italian Foods Menu
+pizza	ピザ
+pasta	パスタ
+spaghetti	スパゲッティ
+spaghetti Bolognese	ボロネーゼ
+lasagna	ラザニア
+carbonara	カルボナーラ
+risotto	リゾット
+gnocchi	ニョッキ
+ravioli	ラビオリ
+bruschetta	ブルスケッタ
+calzone	カルツォーネ
+bagna cauda	バーニャカウダ
+minestrone	ミネストローネ
+gelato	ジェラート
+tiramisu	ティラミス
+panna cotta	パンナコッタ

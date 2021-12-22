@@ -1,0 +1,65 @@
+4	-.-.-: Initial Transition
+1
+90	1
+0	0	0	driving area.  >> (0,0,0)
+1
+90	2
+0	0	1	cafe area >> (0,0,1)
+1
+90	3
+0	0	2	escape  >> (0,0,2)
+1
+90	4
+0	0	3	robot  >> (0,0,3)
+2	0.0.0: Join a theater (question)
+2
+1	1
+101	999
+0	2	0	Voice (0,0,0) >> (0,2,0)
+2
+1	1
+102	999
+0	2	1	Voice (0,0,0) >> (0,2,1)
+2	0.0.1: Take a rest (question)
+2
+1	1
+101	999
+0	2	0	Voice (0,0,1) >> (0,2,0)
+2
+1	1
+102	999
+0	2	1	Voice (0,0,1) >> (0,2,1)
+2	0.0.2: Join the escape game (question) 
+2
+1	1
+101	999
+0	2	0	Voice (0,0,2) >> (0,2,0)
+2
+1	1
+102	999
+0	2	1	Voice (0,0,2) >> (0,2,1)
+2	0.0.3: Join the Robot Demonstration (question)
+2
+1	1
+101	999
+0	2	0	Voice (0,0,3) >> (0,2,0)
+2
+1	1
+102	999
+0	2	1	Voice (0,0,3) >> (0,2,1)
+1	0.1.0: No recognition (Reply to a question)
+1
+-2	-2
+-10	-1	-1	Random(No recognition), Ending (0,1,0) >> (-10,-1,-1)
+1	0.1.1: No recognition (Reply to a question)
+1
+-2	-2
+-10	-1	-1	Random(No recognition), Ending (0,1,1) >> (-10,-1,-1)
+1	0.2.0: Thank you (greeting)
+1
+-2	-2
+-2	-1	-1	Yes, Ending (0,2,0) >> (-2,-1,-1)
+1	0.2.1: See you (greeting) 
+1
+-2	-2
+-10	-1	-1	No, Ending (0,2,1) >> (-10,-1,-1)

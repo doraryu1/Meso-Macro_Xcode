@@ -1,0 +1,35 @@
+3
+4
+3	0.0.0: Join a theater (question) 
+50	こんにちは	Hello
+50	ようこそドライビング体験シアターへ	welcome to the driving experience theater
+50	このシアターに参加しますか？ 	Would you join this theater ?
+3	0.0.1: Take a rest (question)
+50	こんにちは	Hello
+50	ようこそカフェ体験シアターへ	welcome to the cafeteria experience theater
+50	ここで休憩しますか？ 	Do you want to take a rest here ?
+5	0.0.2: Join the escape game (question) 	
+50	こんにちは	Hi
+50	ようこそ脱出ゲームシアターへ	welcome to the escape game experience theater
+50	あなたはこの部屋に閉じ込められました	You are locked in this room
+50	この部屋から脱出するための鍵をみつけなければなりません	You have to find the key to escape from this room
+50	あなたはこのゲームを体験しますか？	Do you play the physical interaction and communication game ?
+3	0.0.3: Join the Robot Demonstration (question)
+50	こんにちは	Hello
+5	ようこそ移動ロボット体験シアターへ	welcome to the mobile robot theater
+50	あなたは移動ロボットのデモを体験しますか？	Do you enjoy the demonstration of mobile robots ?
+2
+1	0.1.0: No recognition (Reply to a question)
+50	大丈夫です	Ok. No problem
+1	0.1.1: No recognition (Reply to a question)
+50	大丈夫です	All right
+2
+3	0.2.0: Thank you (greeting) 
+50	ありがとうございます	Thank you very much
+50	きっと自分自身の自己効力感に気づくでしょう	You must find your self-efficacy
+50	それでは体験シアターをお楽しみ下さい	Let's enjoy several tasks in the theater
+3	0.2.1: See you (greeting) 
+50	そうですか	Oh No
+50	わかりました	I see
+50	また後でこちらに来て下さいね	please come back here later
+

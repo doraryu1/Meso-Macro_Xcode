@@ -1,0 +1,11 @@
+10	Greetings
+hi	はい
+hello	こんにちは
+good morning	おはよう
+good afternoon	こんにちは
+good evening	こんばんは
+good night	おやすみ
+good bye	さよなら
+see you	また会いましょう
+bye bye	バイバイ
+bye for now	またね

@@ -1,0 +1,10 @@
+9	Japanese Foods Menu
+sushi	寿司
+sliced raw fish	刺身
+miso soup	味噌汁
+tempura	天ぷら
+sukiyaki	すき焼き
+nikujaga	肉じゃが
+buckwheat noodles	そば
+udon noodles	うどん
+savory pancake	お好み焼き

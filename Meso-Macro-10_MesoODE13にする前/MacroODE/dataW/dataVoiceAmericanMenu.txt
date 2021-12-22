@@ -1,0 +1,15 @@
+14	American Foods Menu
+hamburger	ハンバーガー
+cheeseburger	チーズバーガー
+French fries	フライドポテト
+hot dog	ホットドッグ
+meatloaf	ミートローフ
+clam chowder	クラムチャウダー
+hash browns	ハッシュドポテト
+crab cake	クラブケーキ
+eggs Benedict	エッグベネディクト
+apple pie	アップルパイ
+pumpkin pie	パンプキンパイ
+sweet potato pie	サツマイモのパイ
+peach cobbler	ピーチコブラー
+Key lime pie	キーライムパイ
